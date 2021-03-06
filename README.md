@@ -17,7 +17,7 @@ Pagine come `about.js`.
 
 Altra cosa: a me non interessano pagine dove i contenuti sono scritti in javascript.
 Mi interessano pagine scritte in markdown, come questa. Come passare da una pagina markdown a
-una pagina "a pieno titolo".
+una pagina "a pieno titolo".z
 
 ## 🚀 Quick start
 
