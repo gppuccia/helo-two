@@ -7,6 +7,18 @@
   Gatsby minimal starter
 </h1>
 
+## Questa pagina appare come home di gitpages
+
+Il che è un buon inizio. Ma le pagine che uno crea dove vanno a finire?
+
+Pagine come `about.js`.
+
+## I want markdown!
+
+Altra cosa: a me non interessano pagine dove i contenuti sono scritti in javascript.
+Mi interessano pagine scritte in markdown, come questa. Come passare da una pagina markdown a
+una pagina "a pieno titolo".
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
